@@ -1,1 +1,1 @@
-print "Hello docker script"
+print("Hello docker script")
